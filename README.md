@@ -3,7 +3,7 @@
 
 **Installation instructions**
 
-     pip --trusted-host pypi.python.org --trusted-host files.pythonhosted.org --trusted-host pypi.org install -r requirements.txt -t ./lib
+     pip --trusted-host pypi.python.org --trusted-host files.pythonhosted.org --trusted-host pypi.org install -r requirements.txt #-t ./lib
 
 **Execution**
 
