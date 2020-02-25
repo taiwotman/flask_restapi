@@ -8,11 +8,10 @@
 **Execution**
 
     python app.py
-    
- *View on browser:* http://127.0.0.1:5000/api/v1
+
+**View API endpoints on Swagger UI:**  http://127.0.0.1:5000/api/v1
  
 **References:**
      
-     https://flask-restful.readthedocs.io/en/latest/quickstart.html
-     
+   
      https://flask-restplus.readthedocs.io/en/stable/scaling.html
